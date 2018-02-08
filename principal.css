@@ -1,5 +1,11 @@
 body { width: 840px; height: 3399.2px; }
 
+.ultepimg { float: left; padding: 5px; }
+
 #ultepi { width: 415px; height: 85px; }
 
-.imgserie { width: 300px; height: 200px; border-radius: 20px; }
+#Lista {  }
+
+.imgserie { width: 190px; height: 133px; border-radius: 20px; padding: 10px; display: inline-flex; }
+
+ul { list-style: none; }
