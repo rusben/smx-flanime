@@ -1,11 +1,32 @@
-body { width: 840px; height: 3399.2px; }
+body { width: 840px; height: 3399.2px; color: #9DA1A4; font-size: 15px; line-height: 20x; }
 
-.ultepimg { float: left; padding: 5px; }
+.ultepimg { float: left; padding-left: 7%; padding-right: 4%; }
 
-#ultepi { width: 415px; height: 85px; }
+#ultepi { width: 415px; height: 85px; font-size: 15px; line-height: 20px; font-family: 'Open Sans' sans-serif; }
 
-#Lista {  }
+#lista {  }
 
-.imgserie { width: 190px; height: 133px; border-radius: 20px; padding: 10px; display: inline-flex; }
+.imgserie { width: 190px; height: 133px; border-radius: 20px; padding-right: 15px; padding-left: 15px; display: inline-flex; }
 
-ul { list-style: none; }
+ul { list-style-type: none; list-style-position: outside; }
+
+#HOY { border-top-right-radius: 20%; border-bottom-right-radius: 20%; border-top-left-radius: 20%; border-bottom-left-radius: 20%; background-color: #01BCF3; position: relative;
+font-size: 12px; font-weight: 700; color: #ffffff; line-height: 30px; min-width: 65px; padding 0; height: 30px; display: inline-block; vertical-align: top; text-align: center;
+margin: -10% 0% 0% 195%; }
+
+#fa-play {  }
+h2 { padding-top: 3%; }
+
+
+
+
+
+.ultanimeimg { float: left; padding-left: 7%; padding-right: 4%; }
+
+#ultanime { width: 435px; height: 85px; font-size: 15px; line-height: 20px; font-family: 'Open Sans' sans-serif; }
+
+.imgultanagr { width: 195.5px; height: 352.083px; border-radius: 20px; padding-right: 10px; padding-left: 15px; padding-bottom: 2%; display: inline-flex; }
+
+#HOY2 { border-top-right-radius: 20%; border-bottom-right-radius: 20%; border-top-left-radius: 20%; border-bottom-left-radius: 20%; background-color: #01BCF3; position: relative;
+font-size: 12px; font-weight: 700; color: #ffffff; line-height: 30px; min-width: 65px; padding 0; height: 30px; display: inline-block; vertical-align: top; text-align: center;
+margin: -10% 0% 0% 186.5%; }
