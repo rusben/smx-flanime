@@ -1,0 +1,36 @@
+body { width: 918px; height: 2676.1px; color: #9DA1A4; font-size: 15px; line-height: 20px; background-image: url("bg.jpg"); float: center; }
+center
+.clearfix { clear: both; }
+
+.ultepimg { float: left; margin-left: 31%;}
+
+#ultepi { width: 415px; height: 85px; font-size: 15px; line-height: 20px; font-family: 'Open Sans' sans-serif; }
+
+#lista {  }
+
+.imgserie { width: 190px; height: 133px; border-radius: 20px; padding-right: 15px; padding-left: 15px; display: inline-flex; }
+
+ul { list-style-type: none; list-style-position: outside; }
+
+#HOY { border-top-right-radius: 30%; border-bottom-right-radius: 30%; border-top-left-radius: 30%; border-bottom-left-radius: 30%; background-color: #01BCF3; position: relative;
+font-size: 12px; font-weight: 700; color: #ffffff; line-height: 30px; min-width: 65px; padding: 2px; height: 30px; display: inline-block; vertical-align: top; text-align: center; margin: -10% 0% 0% 218%; }
+#fa-play {  }
+h2 { padding-top: 3%; }
+
+
+
+
+
+.ultanimeimg { float: left; margin-left: 15.2%; margin-top: 4%; }
+
+#ultanime { width: 840px; height: 765px; font-size: 15px; line-height: 20px; font-family: 'Open Sans' sans-serif; }
+
+.imgultanagr { width: 190px; height: 272.317px; border-radius: 20px; padding: 15px; display: inline-flex; float: left; margin-left: 9%; }
+
+.imgultanagr22 { width: 190px; height: 272.317px; border-radius: 20px; padding: 15px; display: inline-flex; float: left; margin-left: 10%; margin: 38% 0% 0% 0%; }
+
+#HOY2 { border-top-right-radius: 30%; border-bottom-right-radius: 30%; border-top-left-radius: 30%; border-bottom-left-radius: 30%; background-color: #01BCF3; position: relative;
+font-size: 12px; font-weight: 700; color: #ffffff; line-height: 30px; min-width: 65px; padding: 2px; height: 30px; display: inline-block; vertical-align: top; text-align: center;
+margin: -6% 0% 0% 108%; }
+
+#HOY22 { float: left; margin-left: 1%; }
