@@ -1,36 +1,42 @@
-body { width: 918px; height: 2676.1px; color: #9DA1A4; font-size: 15px; line-height: 20px; background-image: url("bg.jpg"); float: center; }
-center
+body { width: auto; height: auto; color: #9DA1A4; font-size: 15px; line-height: 20px; background-image: url("bg.jpg"); float: center; }
 .clearfix { clear: both; }
 
-.ultepimg { float: left; margin-left: 31%;}
-
-#ultepi { width: 415px; height: 85px; font-size: 15px; line-height: 20px; font-family: 'Open Sans' sans-serif; }
+.ultepimg { float: left; margin-left: 2.4%; margin-top: 40px}
+h2 { margin-top: 40px; float:left; margin-left: 10px;font-size: 25px;font-weight: 300;line-height: 30px;padding: 5px 0;}
+#ultepi { width: 800px; height: 85px; font-size: 15px; line-height: 20px; }
 
 #lista {  }
 
-.imgserie { width: 190px; height: 133px; border-radius: 20px; padding-right: 15px; padding-left: 15px; display: inline-flex; }
+.imgserie { width: auto; height: auto; border-radius: 20px; padding-right: 8px; padding-left: 8px; display: inline-flex;margin-top: 2%}
 
 ul { list-style-type: none; list-style-position: outside; }
 
-#HOY { border-top-right-radius: 30%; border-bottom-right-radius: 30%; border-top-left-radius: 30%; border-bottom-left-radius: 30%; background-color: #01BCF3; position: relative;
-font-size: 12px; font-weight: 700; color: #ffffff; line-height: 30px; min-width: 65px; padding: 2px; height: 30px; display: inline-block; vertical-align: top; text-align: center; margin: -10% 0% 0% 218%; }
-#fa-play {  }
-h2 { padding-top: 3%; }
+#HOY{border-radius: 30%; background-color: #01BCF3; font-size: 12px; font-weight: 700; color: #ffffff; line-height: 30px; min-width: 65px; padding: 2px; height: 30px;
+     display: inline-block; vertical-align: top; text-align: center; margin-left: 54.3%;margin-top: 5%; text-decoration: none;}
 
-
-
-
+     #HOY2{border-radius: 30%; background-color: #01BCF3; font-size: 12px; font-weight: 700; color: #ffffff; line-height: 30px; min-width: 65px; padding: 2px; height: 30px;
+          display: inline-block; vertical-align: top; text-align: center; margin-left: 40%;margin-top: 5%; text-decoration: none;}
 
 .ultanimeimg { float: left; margin-left: 15.2%; margin-top: 4%; }
 
-#ultanime { width: 840px; height: 765px; font-size: 15px; line-height: 20px; font-family: 'Open Sans' sans-serif; }
+#ultanime { width: 840px; height: 765px; font-size: 15px; line-height: 20px;}
 
-.imgultanagr { width: 190px; height: 272.317px; border-radius: 20px; padding: 15px; display: inline-flex; float: left; margin-left: 9%; }
+.imgultanagr {width: auto; height: auto; border-radius: 20px; padding-right: 8px; padding-left: 8px; display: inline-flex;margin-top: 2%}
 
-.imgultanagr22 { width: 190px; height: 272.317px; border-radius: 20px; padding: 15px; display: inline-flex; float: left; margin-left: 10%; margin: 38% 0% 0% 0%; }
+.lista{float: left;margin-left: 150px;width: 320px; height: 3025px;padding: 20px 10px 0;color: #9DA1A4;}
 
-#HOY2 { border-top-right-radius: 30%; border-bottom-right-radius: 30%; border-top-left-radius: 30%; border-bottom-left-radius: 30%; background-color: #01BCF3; position: relative;
-font-size: 12px; font-weight: 700; color: #ffffff; line-height: 30px; min-width: 65px; padding: 2px; height: 30px; display: inline-block; vertical-align: top; text-align: center;
-margin: -6% 0% 0% 108%; }
-
-#HOY22 { float: left; margin-left: 1%; }
+.dia{float: left;color: #3B4248;padding: 15px; background-color: #fff; width: 315px; height: 784px;box-shadow: 0 0 5px rgba(0,0,0,.05);}
+.dia-top{border-bottom: 1px solid #f3f3f3;color: #3B4248; }
+.dia i{color: #FF7E00; height: 50px;font-size: 20px; float: right; margin-left: 150px}
+270 402
+.tituloanime{font-size: 20px;}
+.sinopsis{font-size: 12px;color: #9DA1A4;float: left; width: 260px; height: auto;;text-align:left;margin-left: 25px}
+.generos{width: 300px;height: 91px; font-size: 12px;color: #9DA1A4;text-align: left; margin-top: 87%; margin-left: 25px; border-top: 1px solid #f3f3f3;}
+.tag{float: left;font-size: 10px; text-transform: uppercase; font-weight: 700; margin-top: 5px; margin-right: 5px; padding: 0 10px; color: #fff; border-radius: 10px; background-color: #3B4248; border-color: transparent}
+.emision{width: 315px; height: 1800px; background-color: #fff;border-radius: 3px;box-shadow: 0 0 5px rgba(0,0,0,.05);padding: 15px; margin-top: 840px}
+.emision-top{border-bottom: 1px solid #f3f3f3;color: #3B4248; padding: 7px;}
+.emision-top i{color: #FF7E00; height: 50px;font-size: 20px; float: right; margin-left: 150px}
+.lista-emision{padding: 10px 0px 80px 15px;color: #3B4248;float:left;}
+.lista-emision i{color: #9DA1A4; float: left; margin-right: 8px}
+.lista-emision-anime{;background-color: #01BCF3; border-color: #01BCF3; opacity: .5; position: absolute;margin-top: 3px; margin-left: 100px;font-size: 10px; font-weight: 700; line-height: 16px;width: 60px; text-align: center; text-transform: uppercase; color: #fff; height: 16px; border-radius: 8px;}
+.emi{margin-top: 15px}
